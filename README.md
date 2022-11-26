@@ -1,11 +1,14 @@
 # Eyes
-## Eyes Repo
+## Eyes Exercise
 <img src= "oneeye.png" width='300'/>
 
 Click on "Make One" button to add a new pacman image to the page. "Start" will make it bounce off the wall it hits.
 
 
 # License
+
+## MIT License
+
 Copyright © 2022 Arlene Juaton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
