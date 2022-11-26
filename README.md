@@ -2,6 +2,10 @@
 ## Eyes Exercise
 <img src= "twoeyes.png" width='300'/>
 
+<a href="https://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
+
+<a href="https://github.com/ArleneJuaton/Eye-Exercise">Reposity</a>
+
 Two eyes will follow the cursor's movement on the page. 
 
 
