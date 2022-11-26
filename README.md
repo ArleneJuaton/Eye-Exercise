@@ -1,6 +1,6 @@
 # Eyes
 ## Eyes Exercise
-<img src= "oneeye.png" width='300'/>
+<img src= "twoeyes.png" width='300'/>
 
 Two eyes will follow the cursor's movement on the page. 
 
