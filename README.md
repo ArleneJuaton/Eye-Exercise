@@ -2,7 +2,7 @@
 ## Eyes Exercise
 <img src= "oneeye.png" width='300'/>
 
-Click on "Make One" button to add a new pacman image to the page. "Start" will make it bounce off the wall it hits.
+Two eyes will follow the cursor's movement on the page. 
 
 
 # License
