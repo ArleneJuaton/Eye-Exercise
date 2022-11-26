@@ -4,7 +4,7 @@
 
 <a href="https://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
 
-<a href="https://github.com/ArleneJuaton/Eye-Exercise">Reposity</a>
+<a href="https://github.com/ArleneJuaton/Eye-Exercise">Repository</a>
 
 Two eyes will follow the cursor's movement on the page. 
 
