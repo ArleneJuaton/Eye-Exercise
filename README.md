@@ -8,6 +8,11 @@
 
 Two eyes will follow the cursor's movement on the page. 
 
+## Future Improvements
+1. Change background color
+2. Add 'back' button to return to main page
+3. Incorporate options to add multiple eyes and/or different eye images
+
 
 # License
 
